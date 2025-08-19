@@ -1,4 +1,4 @@
-﻿namespace API_Comercio.Models
+﻿namespace API_Comercio.Models.Domain
 {
     public class Product
     {
@@ -11,6 +11,8 @@
         public Brand Brand { get; set; } = new Brand();
         public List<Category> ListCategory { get; set; } = new List<Category>();
         public List<Supplier> ListSupplier { get; set; } = new List<Supplier>();
+        public int BrandId {  get; set; }
+        public int CategoryId {  get; set; }
 
     }
 }

@@ -1,4 +1,4 @@
-﻿namespace API_Comercio.Models
+﻿namespace API_Comercio.Models.Domain
 {
     public class Purchase
     {
