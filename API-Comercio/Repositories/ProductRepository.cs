@@ -2,7 +2,7 @@
 using API_Comercio.Models.Domain;
 using API_Comercio.Repositories.Interfaces;
 using Microsoft.AspNetCore.Http.HttpResults;
-using Microsoft.CodeAnalysis.CSharp.Syntax;
+//using Microsoft.CodeAnalysis.CSharp.Syntax;
 using Microsoft.EntityFrameworkCore;
 
 namespace API_Comercio.Repositories

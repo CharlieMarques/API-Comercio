@@ -1,4 +1,4 @@
-﻿using API_Comercio.Models;
+﻿using API_Comercio.Models.Domain;
 
 namespace API_Comercio.Services
 {
